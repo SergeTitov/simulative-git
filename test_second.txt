@@ -1,1 +1,3 @@
 hello, git
+Hello from new-branch!
+Hello again.
